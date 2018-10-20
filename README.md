@@ -1,17 +1,17 @@
-Analysis of YouTube shared subscribers network
+###Analysis of YouTube shared subscribers network
 
-1. Graph files (to build it):\n
+##1. Graph files (to build it):
 nodes.csv
 edges.csv
 
 output: my_graph.gml
 
-2. Code Files:
-proj_degree_communities: average degree, degreee distribution, communities and respective plots. \n
-proj_clustering_path: clustering coefficient and average path length\n
-proj_centrality: 3 algorithms and their plots and time taken to run them (eigenvector, degree and betweeness)\n
+##2. Code Files:
+proj_degree_communities: average degree, degreee distribution, communities and respective plots. 
+proj_clustering_path: clustering coefficient and average path length
+proj_centrality: 3 algorithms and their plots and time taken to run them (eigenvector, degree and betweeness)
 
-3. Image Files (used in pdf report):\n
+##3. Image Files (used in pdf report):
 bn_hist.png 	
 dgVSbn.png 	
 dgVSbn_redzoom.png 	
