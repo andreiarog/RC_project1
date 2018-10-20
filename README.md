@@ -7,8 +7,8 @@ edges.csv
 output: my_graph.gml
 
 2. Code Files:
-proj_
-proj_ 
+proj_degree_communities: average degree, degreee distribution, communities and respective plots.
+proj_average_path: clustering coefficient and average path length
 proj_centrality: 3 algorithms and their plots and time taken to run them (eigenvector, degree and betweeness)
 
 3. Image Files (used in pdf report):
